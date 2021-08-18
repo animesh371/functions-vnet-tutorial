@@ -39,5 +39,5 @@ jobs:
         app-name: 'AnimeshFunctionApp'
         slot-name: 'production'
         package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_313a1a968304492686d7f5efaf9df0ac }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_088a3d0dfc624b6bb17962fe3e6be91e }}
   
